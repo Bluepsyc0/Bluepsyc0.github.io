@@ -55,3 +55,6 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+
+atom_feed:
+  hide: true
