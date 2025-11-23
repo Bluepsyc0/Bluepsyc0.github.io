@@ -1,4 +1,9 @@
 ---
+title: Reports & Labs
+layout: collection
 permalink: /reports&labs/
-title: "Reports & Labs"
+collection: posts
+#entries_layout: grid
+classes: wide
 ---
+
