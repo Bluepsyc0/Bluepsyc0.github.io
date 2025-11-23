@@ -1,6 +1,6 @@
 main:
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
   - title: "Reports & Labs"
     url: /reports&labs/
   #- title: "Tags"

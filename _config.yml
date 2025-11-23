@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Riccardo Temporin"
   avatar : "/assets/images/my_ph.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Passionate about cybersecurity, particularly Blue Team, with a focus on threat hunting, digital forensics, and incident response."
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
