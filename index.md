@@ -1,10 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Presentation
 layout: single
 author_profile: True
 ---
+
 ## Whoami
 
 I specialize in defending systems, analyzing security events, and managing threats across different environments. Through hands-on projects, certifications, and real-world experience, I continue to grow my skills in identifying, investigating, and responding to security incidents.
