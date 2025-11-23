@@ -8,4 +8,3 @@ header:
   teaser: /assets/images/ransomware-thumb.png
 ---
 
-Your report content here in markdown...
