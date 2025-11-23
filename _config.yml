@@ -61,6 +61,10 @@ author:
   name   : "Riccardo Temporin"
   avatar : "/assets/images/my_ph.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://linkedin.com/in/riccardo-temporin-a2aaa3209"
 
 footer:
   
