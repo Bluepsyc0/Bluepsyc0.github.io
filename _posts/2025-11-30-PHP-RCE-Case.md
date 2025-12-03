@@ -8,7 +8,7 @@ classes: wide custom-report
 ---
 
 
-# Network Forensics Notes – PHP RCE Case
+# Network Forensics LAB – PHP RCE Case
 
 **1. From the first screenshot, the attacker is identified because the traffic pattern clearly indicates a port scan during the reconnaissance phase. The behavior is visible from two factors: a high number of TCP SYN packets sent to many different ports on the same endpoint, and all of this occurring within a very short time window.**
 ![Alt text](/assets/images/report_network_forensic_php_vuln/identification_attacker.png)
