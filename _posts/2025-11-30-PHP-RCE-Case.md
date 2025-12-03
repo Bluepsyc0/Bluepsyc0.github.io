@@ -162,7 +162,6 @@ classes: wide custom-report
 
 
 
-**10. In the same TCP stream, it is also possible to see the command used to attempt privilege escalation (see the screenshot).**
 
 
 
@@ -172,9 +171,10 @@ classes: wide custom-report
 
 
 
+**10. In the same screenhot it's also possible to see the command used to attempt privilege escalation (see the screenshot).**
 
 
-**11. The stream additionally shows when the attacker fails to escalate privileges, including the failing command and its result (see the screenshot).**
+
 
 
 
