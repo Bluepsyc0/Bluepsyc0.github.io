@@ -8,7 +8,7 @@ classes: wide custom-report
 ---
 
 
-##Reconnaissance
+## Reconnaissance
 
 
 
@@ -26,7 +26,7 @@ classes: wide custom-report
 
 
 
-##Initial Access
+## Initial Access
 
 **The attacker gained initial access by identifying a vulnerable WordPress plugin using WPScan.**
 
@@ -43,7 +43,7 @@ classes: wide custom-report
 
 
 
-##Execution
+## Execution
 
 **The attacker exploited the SQL Injection flaw using sqlmap to extract password hashes from the WordPress database. These hashes were stored in the user_pass field of the wp_users table. Log activity clearly showed SQLMap-style enumeration and dumping behavior.**
 
@@ -60,7 +60,7 @@ classes: wide custom-report
 
 
 
-##Privilege Escalation
+## Privilege Escalation
 
 
 
