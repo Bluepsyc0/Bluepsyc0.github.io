@@ -1,7 +1,7 @@
 ---
 title: "Disk forensic case 01"
 excerpt: "Disk forensic"
-date: 2025-11-30
+date: 2025-12-10
 categories:
   - Blog
 classes: wide custom-report
@@ -16,7 +16,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/1_hostname_victim.png)
+![Alt text](/assets/images/Disk_forensic_01/1_hostname_victim.png)
 
 
 
@@ -33,7 +33,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/2_IP_victim.png)
+![Alt text](/assets/images/Disk_forensic_01/2_IP_victim.png)
 
 
 
@@ -49,7 +49,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/3_sid_victim_machine.png)
+![Alt text](/assets/images/Disk_forensic_01/3_sid_victim_machine.png)
 
 
 
@@ -65,7 +65,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/5_software_priv_esc.png)
+![Alt text](/assets/images/Disk_forensic_01/5_software_priv_esc.png)
 
 
 
@@ -80,7 +80,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/last_run_mimi.png)
+![Alt text](/assets/images/Disk_forensic_01/last_run_mimi.png)
 
 
 
@@ -93,7 +93,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/8_tool_dc_1.png)
+![Alt text](/assets/images/Disk_forensic_01/8_tool_dc_1.png)
 
 
 
@@ -102,7 +102,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/8_tool_dc_2.png)
+![Alt text](/assets/images/Disk_forensic_01/8_tool_dc_2.png)
 
 
 
@@ -120,7 +120,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/11_file_accessed_attacker.png)
+![Alt text](/assets/images/Disk_forensic_01/11_file_accessed_attacker.png)
 
 
 
@@ -131,7 +131,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/file_accessed_attacker_shellbags.png)
+![Alt text](/assets/images/Disk_forensic_01/file_accessed_attacker_shellbags.png)
 
 
 
@@ -141,7 +141,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/10_delete_file.png)
+![Alt text](/assets/images/Disk_forensic_01/10_delete_file.png)
 
 
 
@@ -153,7 +153,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/12_new_user_creation.png)
+![Alt text](/assets/images/Disk_forensic_01/12_new_user_creation.png)
 
 
 
@@ -163,7 +163,7 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/hash_Admin_kali.png)
+![Alt text](/assets/images/Disk_forensic_01/hash_Admin_kali.png)
 
 
 
@@ -173,4 +173,4 @@ classes: wide custom-report
 
 
 
-![Alt text](/assets/images/Disk_forensic/ntlm_hash_to_plaintext.png)
+![Alt text](/assets/images/Disk_forensic_01/ntlm_hash_to_plaintext.png)
