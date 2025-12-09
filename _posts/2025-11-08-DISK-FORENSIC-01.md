@@ -1,7 +1,7 @@
 ---
 title: "Disk forensic case 01"
 excerpt: "Disk forensic"
-date: 2025-12-10
+date: 2025-11-08
 categories:
   - Blog
 classes: wide custom-report

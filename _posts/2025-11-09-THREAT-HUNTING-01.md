@@ -1,7 +1,7 @@
 ---
 title: "From WordPress Plugin Vulnerability to Domain Admin"
 excerpt: "Threat Hunting"
-date: 2025-12-11
+date: 2025-11-09
 categories:
   - Blog
 classes: wide custom-report
