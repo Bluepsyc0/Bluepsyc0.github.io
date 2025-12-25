@@ -7,12 +7,13 @@ categories:
 classes: wide custom-report
 ---
 
+# Disk forensic case 01
 
-**With this investigation, I want to understand what happened on this endpoint and what the attacker did.**
+- **With this investigation, I want to understand what happened on this endpoint and what the attacker did.**
 
 
 
-**First of all I identified the victim machine’s hostname using Registry Explorer (EZ Tools) by reviewing the relevant registry path shown in the screenshot.**
+- **First of all I identified the victim machine’s hostname using Registry Explorer (EZ Tools) by reviewing the relevant registry path shown in the screenshot.**
 
 
 
@@ -23,7 +24,7 @@ classes: wide custom-report
 
 
 
-**From the same SYSTEM registry hive, I also located the victim machine’s IP address, as shown in the screenshot.**
+- **From the same SYSTEM registry hive, I also located the victim machine’s IP address, as shown in the screenshot.**
 
 
 
@@ -41,7 +42,7 @@ classes: wide custom-report
 
 
 
-**I extracted the machine’s SID, also documented in the screenshot.**
+- **I extracted the machine’s SID, also documented in the screenshot.**
 
 
 
@@ -57,7 +58,7 @@ classes: wide custom-report
 
 
 
-**I found evidence of a credential-dumping tool in the PowerShell history and also evidence of defense evasion via windows defender tampering.**
+- **I found evidence of a credential-dumping tool in the PowerShell history and also evidence of defense evasion via windows defender tampering.**
 
 
 
@@ -72,7 +73,7 @@ classes: wide custom-report
 
 
 
-**Using Prefetch files, I identified the last execution of this credential-dumping tool.**
+- **Using Prefetch files, I identified the last execution of this credential-dumping tool.**
 
 
 
@@ -86,7 +87,7 @@ classes: wide custom-report
 
 
 
-**Through the Edge browser history of the Alpha user, I found information related to the “dc scan” tool.**
+- **Through the Edge browser history of the Alpha user, I found information related to the “dc scan” tool.**
 
 
 
@@ -114,7 +115,7 @@ classes: wide custom-report
 
 
 
-**I identified the file accessed by the attacker, secret.xlsx. This was confirmed by analyzing Shellbags in C:\Users\<UserProfile>\AppData\Local\Microsoft\Windows\UsrClass.dat using ShellBags Explorer.**
+- **I identified the file accessed by the attacker, secret.xlsx. This was confirmed by analyzing Shellbags in C:\Users\<UserProfile>\AppData\Local\Microsoft\Windows\UsrClass.dat using ShellBags Explorer.**
 
 
 
@@ -136,7 +137,7 @@ classes: wide custom-report
 
 
 
-**Using the $J file and MFTECmd, I determined the exact time this file was deleted by the attacker.**
+- **Using the $J file and MFTECmd, I determined the exact time this file was deleted by the attacker.**
 
 
 
@@ -147,7 +148,7 @@ classes: wide custom-report
 
 
 
-**For persistence, I found evidence of a newly created user account. I extracted the associated NTLM hash from the SAM and SYSTEM registry hives using the Impacket secretsdump script.**
+- **For persistence, I found evidence of a newly created user account. I extracted the associated NTLM hash from the SAM and SYSTEM registry hives using the Impacket secretsdump script.**
 
 
 
